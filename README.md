@@ -30,4 +30,12 @@ Diana DeGette with 272,892 votes totalling 73.8% of the overall vote.
 
 
 ## Challenge Overview
+This challenge was specifically based on creating another set of dictonaries and lists to be able to review the voter county turnout and the highest county turnout throughout this election.
+
+The results were:
+- Denver having 82.8% of the vote, or 306,055 votes
+- Jefferson having 10.5% of the votes or 38,855 votes
+- Arapahoe having 6.7% of the vote or 24,801 votes
+
 ## Challenge Summary
+Being able to analyze 369,712 rows of data so quickly was something very unique and interesting to me. I enjoyed being able to go through the lines of code and having set dictonaries to refer back to in order to make this an easier task. I struggled getting my code to line up and having paths work directly into the location in my computer, but that was one of the few difficulties I had. Going through this project methodically made sense to me and I enjoyed it a lot.
